@@ -1,0 +1,10 @@
+D:\gitcours\TBCrudArticle\Ado\bin\Debug\Ado.dacpac
+D:\gitcours\TBCrudArticle\Ado\bin\Debug\Ado.dll
+D:\gitcours\TBCrudArticle\Ado\bin\Debug\Ado.pdb
+D:\gitcours\TBCrudArticle\Ado\obj\Debug\Ado.sqlproj.AssemblyReference.cache
+D:\gitcours\TBCrudArticle\Ado\obj\Debug\Ado.dll
+D:\gitcours\TBCrudArticle\Ado\obj\Debug\Ado.pdb
+D:\gitcours\TBCrudArticle\Ado\obj\Debug\Model.xml
+D:\gitcours\TBCrudArticle\Ado\obj\Debug\refactor.xml
+D:\gitcours\TBCrudArticle\Ado\obj\Debug\postdeploy.sql
+D:\gitcours\TBCrudArticle\Ado\obj\Debug\predeploy.sql
